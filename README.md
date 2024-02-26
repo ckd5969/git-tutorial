@@ -2,3 +2,4 @@
 
  - feature-A
  -merge again
+-fix-B
