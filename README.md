@@ -3,3 +3,4 @@
  - feature-A
  -merge again
 -fix-B
+-feature-C
